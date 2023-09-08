@@ -1,0 +1,4 @@
+-- Write a SQL query to find the age is less than 30 and name start with S
+
+
+SELECT * FROM EMPLOYEES WHERE empAge < 30 AND empName LIKE ‘S%’;

@@ -12,7 +12,7 @@ public class DecimalToBinary {
 		String decimalNumber = sc.next();
 		
 		String binaryNumber = decimalToBinary(decimalNumber);
-//		1111011
+
 		System.out.println(binaryNumber );
 		
 		
